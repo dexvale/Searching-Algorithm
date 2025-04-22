@@ -18,6 +18,7 @@ public class App {
                 int []elements = elements(sc);
                  int target = GetTarget(sc);
                 linearsearch.LinearSearch(elements, target);
+                break;
         
             case 2:
                 
